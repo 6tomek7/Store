@@ -1,0 +1,17 @@
+.top {
+    background-color: antiquewhite;
+    border-bottom: 1px solid black;
+}
+
+.content {
+    display: flex;
+}
+
+.left-column {
+    background-color: aqua;
+    width: 150px;
+}
+
+.right-column {
+    background-color: bisque;
+}
